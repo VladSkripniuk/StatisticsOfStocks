@@ -1,0 +1,2 @@
+DJC - Dow Jones Composite Average
+DJI - Dow Jones Industrial Average
